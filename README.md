@@ -37,15 +37,3 @@ will be shown. Right after that another message "Processing... please wait" will
 What will be happen if the user first enter an image name or url?
 In these cases the program will process the images with the default filter (IDENTITY) and the output will be the same image as an input image.
 
-
-References:
-For this project I have used different sources of information. First of all were the lectures and the discusion forum. After that are different on-line sources:
-
-https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
-https://en.wikipedia.org/wiki/Kernel_(image_processing)
-https://stackoverflow.com/questions/29226704/image-getraster-getdatabuffer-returns-array-of-negative-values
-http://www.jhlabs.com/ip/blurring.html
-https://docs.oracle.com/en/java/javase/13/language/switch-expressions.html
-https://github.com/RyanClinton777/ImageFilter
-
-
